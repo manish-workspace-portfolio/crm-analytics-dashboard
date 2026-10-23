@@ -55,10 +55,6 @@ MySQL was used to structure CRM data, standardize fields, prepare analytical vie
 
 SQL script will be added to this repository.
 
-## Dashboard Previews
-
-Power BI and Tableau Public dashboard screenshots will be added here.
-
 ## Key Learnings
 
 - Prepared and standardized CRM data for analysis.
